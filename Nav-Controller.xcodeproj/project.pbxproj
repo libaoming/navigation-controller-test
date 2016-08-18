@@ -12,6 +12,8 @@
 		9A3EFD3B1D65A81900F6FB68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A3EFD391D65A81900F6FB68 /* Main.storyboard */; };
 		9A3EFD3D1D65A81900F6FB68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A3EFD3C1D65A81900F6FB68 /* Assets.xcassets */; };
 		9A3EFD401D65A81900F6FB68 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A3EFD3E1D65A81900F6FB68 /* LaunchScreen.storyboard */; };
+		9A3EFD481D65AA4300F6FB68 /* YellowVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A3EFD471D65AA4300F6FB68 /* YellowVC.swift */; };
+		9A3EFD4A1D65ADF500F6FB68 /* PinkVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A3EFD491D65ADF500F6FB68 /* PinkVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		9A3EFD3C1D65A81900F6FB68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A3EFD3F1D65A81900F6FB68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A3EFD411D65A81900F6FB68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A3EFD471D65AA4300F6FB68 /* YellowVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YellowVC.swift; sourceTree = "<group>"; };
+		9A3EFD491D65ADF500F6FB68 /* PinkVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PinkVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				9A3EFD3C1D65A81900F6FB68 /* Assets.xcassets */,
 				9A3EFD3E1D65A81900F6FB68 /* LaunchScreen.storyboard */,
 				9A3EFD411D65A81900F6FB68 /* Info.plist */,
+				9A3EFD471D65AA4300F6FB68 /* YellowVC.swift */,
+				9A3EFD491D65ADF500F6FB68 /* PinkVC.swift */,
 			);
 			path = "Nav-Controller";
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			files = (
 				9A3EFD381D65A81900F6FB68 /* ViewController.swift in Sources */,
 				9A3EFD361D65A81900F6FB68 /* AppDelegate.swift in Sources */,
+				9A3EFD4A1D65ADF500F6FB68 /* PinkVC.swift in Sources */,
+				9A3EFD481D65AA4300F6FB68 /* YellowVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
